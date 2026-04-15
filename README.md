@@ -9,5 +9,6 @@ Styled layout similar to Pinterest
 Responsive form elements
 
 Technologies Used
+
 HTML
 CSS
