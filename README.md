@@ -1,17 +1,14 @@
-Pinterest Sign Up Page
+Facebook Sign Up Page
 
-A clone of the Pinterest sign up page interface.
+A recreation of the Facebook sign up page.
 
 Features
 
-Structured signup form
-
-Styled layout similar to Pinterest
-
-Responsive form elements
+Registration form
+Input fields for user details
+Styled layout similar to Facebook
 
 Technologies Used
 
 HTML
-
 CSS
